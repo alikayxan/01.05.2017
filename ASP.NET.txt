@@ -1,0 +1,10 @@
+ASP (Active Server Pages) dilimizde "Aktiv Server Sehifeleri anlamina gelir. 
+ASP Windows emeliyyat sistemi uzerinde IIS (Internet Information Service) ile ishleye bilen bir proqramlashdirma dilidir. 
+ASP ile kodlashdirilan saytlara dinamik veb saytlari da deyilmekdedir. 
+ASP.NET Microsoft terefinden inkishaf etdirilen bir texnologiyadir.
+ASP.NET sehifelerini meydana getirmek ucun bir proqramlashdirma dilini bilmeyimiz lazimdir. Burada Microsoftun bizim ucun temin etdiyi rahatligi, her hansi bir proqramlashdirma dilini secme shansini bize vermesidir. 
+En cox Visual Basic ve C# dilleri istifade olunur. 
+ASP.NET Microsoftun inkishaf etdirdiyi .Net Framework uzerine calishan bir veb tetbiq dilidir. 
+ASP.NET sayesinde veb proqramchilar asanliqla dinamik veb saytlari, veb tetbiqleri ve ya XML veb xidmetlerini inkishaf etdire biler. 
+
+....Bir sozle ejdahadir:)

@@ -1,0 +1,7 @@
+COBOL (Common Business Oriented Language) proqramlashdirma dili 1959-cu ilde Amerikadaki komputer istehsalcilari, xususi sektor ve dovlet sektorundaki komputer istifadecilerinden ibaret olan bir qruo terefinden yaradilib. 
+Inkishaf etdirilmesinde meqsed informasiya mubadilesinde, analitik arashdirmalarda ve biznes elavelerde istifade edilecek, dashinilabilen bir proqramlashdirma dilidir. 
+COBOL dili hele de ABS-da bezi proqramcilar terefinden istifade edilmekdedir. 
+COBOL dilinin strukturu ingilis diline cox yaxindir. 
+Yuksek seviyyeli bir proqralashdirma dili demek olar. 
+COBOL dilinde kodlanmish proqramlar mashin diline benzemez. 
+Ilk vaxtlar bu dilde interpretatorlardan, hal-hazirda kompilyatorlardan istifade olunur.

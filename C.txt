@@ -1,0 +1,15 @@
+C Proqramlashdirma dili umumi meqsedli orta seviyyeli dildir. 
+1972-ci ilde Dennis Ritchie terefinden Bell Laboratoriyasinda Unix emeliyyat sistemini yaratmaq ucun B dilinden torenmish dildir.
+C dili hem de mashin diline yaxin bir dildir. Gunumuzdeki bir cox proqramlarin ve emeliyyat sistemlerinin temelidir. C dili mashin diline yaxin olmasi sebebi ile diger proqramlashdirma dillerine gore cetindir, ancaq yuksek suretle ishleyir. 
+Bir cox cihazlarin drayverleri hem de kompulyatorlar C dili ile yazilmishdir. 
+C dilinin ustunlukleri:
+
+- C guclu ve suretli bir dildir. C dili ile emeliyyat sistemi, kompulyator yazmaq olur ve qrafik imkanlarina malikdir.
+- C dilinde guclu ve suretle ishleyen proqram yazmaq olur.
+- C dashinabilen bir dildir.
+- C inkishafini tamamlamish ve standard olmush bir dildir.
+- C strukturlu dildir. C kodlari, funksiya olaraq adlandirilan alt proqramlardan ibaretdir.
+
+C dilinin ustunlukleri ile yanashi, proqramcilara cox xetalar verme ehtimali da var.
+
+C dili Mobil, Desktop ve bir cox proqramlashdirma dillerinden ferqli olaraq Embed platformasinda da calishir.

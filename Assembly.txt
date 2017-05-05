@@ -1,0 +1,15 @@
+Assembly eslinde oyrenilmesi cetin olan bir dildir. Uzun zaman ve boyuk emek teleb eder. Lakin yaxshi bir shekilde izah edildiyinde hec de cetin deyil. 
+Amma bashdan onu da deyim ki, diger proqramlashdirma dillerinde etdiklerinizi Assembly altinda daha cox setir kod yazaraq ve daha uzun bir zamanda elde ede bilersiniz. 
+Diger dillere gore bir cox ustunluyu var:
+
+- Prosessorumuzun gucunu en yaxshi shekilde ortaya qoya bilecek tek proqramlashdirma dilidir
+- Cox az yer tutdugu ucun komputer viruslarinin yazilmasinda istifade olunur
+- Yaxshi oyrenildikde diger dillerde qarshilashilan boyuk problemleri Assembly ile sade helli oluna biler, yani bashqa dillerde calishan insanlarin bu ish qeyri-mumkundur dediyi halda Assembly bunu mumkun edir.
+
+Menfi terefleri:
+
+- Dilin oyrenilmesi uzun zaman ve emek ister
+- Yazilan proqramlar diger dillere nisbeten daha cox setirden ibaretdir
+- Yazdiginiz proqramin hansi setirlerinin ne ish etdiyini bir muddet sonra anlamaya bashlayirsiniz. Cunki basha dushulmesi cetin ve kompleks bir dildir. Bu sebeble kodlarin sonuna sherh bolumleri elave etmek yaxshi bir hell yolu ola biler.
+
+Bir sozle otur OXU:)
